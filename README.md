@@ -8,7 +8,13 @@ Vending machines may be stocked with different snacks, and the same snack may be
 
 ## Setup
 
+- Fork and clone this repo
 - Perform the usual setup steps after cloning a Rails application
+
+## Submission
+
+- Create a PR from your repo back the the turingschool-projects repo
+- Name the PR with *your* name!
 
 ## Requirements
 
