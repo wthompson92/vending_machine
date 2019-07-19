@@ -10,6 +10,6 @@ RSpec.describe 'When a user visits a machine show page', type: :feature do
 
     expect(page).to have_content("Cheetos")
     expect(page).to have_content("Lays")
-    expect(page).to have_content("1.25")
+    expect(page).to have_content("Average Price: 1.25")
   end
 end
